@@ -32,7 +32,7 @@ This beginner-friendly project walks through setting up a functional Active Dire
 ### 📦 Step 1: Install VirtualBox
 
 - Download and install VirtualBox from the official site.
-- Screenshot example: `screenshots/vbox-install.png`
+<img width="1915" height="1038" alt="image" src="https://github.com/user-attachments/assets/82cd20d3-0acd-45d7-83cb-8ef246c49375" />
 
 ---
 
