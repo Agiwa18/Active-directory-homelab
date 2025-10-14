@@ -134,7 +134,7 @@ Steps:
 
 2.then save the Notepad file as users.csv
 
-📌 Note: Your user list may different than mines it just must follow the same format as the one below 
+📌 Note: Your user list may be different from mine; it just needs to follow the same format as the one shown below.
 
 3.Customize the users.csv file with names, usernames, departments, and OUs.
 
@@ -144,10 +144,11 @@ Steps:
    <img width="1110" height="1100" alt="image" src="https://github.com/user-attachments/assets/3649c329-33a6-4938-8c31-5405d9844f54" />
 
 4. Open PowerShell as an Administrator on your domain controller: your server vm
-5. copy and paste this script into powershell and press enter
+5. Copy and paste the scripts below into PowerShell and press Enter.
 
 📌 Note:
-Before running this script, make sure:
+Before running these scripts, 
+make sure:
 
 You have saved your users.csv file to the Desktop of the Server VM.
 
@@ -158,10 +159,13 @@ run this script first
 ```powershell
 $users = Import-Csv "C:\Users\Administrator\Desktop\users.csv"
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e07ea84b-6167-40cb-a9f5-a03889369a2b" />
+
 
 
    # Loop through each user entry
-
+📌 Note:
+after running the script above you may now run this script
 ```powershell
 foreach ($user in $users) {
     $OUPath = "OU=$($user.OU),DC=corp,DC=local"
