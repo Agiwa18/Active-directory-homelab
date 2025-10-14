@@ -61,11 +61,10 @@ This beginner-friendly project walks through setting up a functional Active Dire
 ---
 
 ### 🛡️ Step 4: Install Active Directory Domain Services
-📸 Screenshot Example:
 
 After installation, your **Server Manager** dashboard will show a new "AD DS" role added in the left pane. This confirms that Active Directory Domain Services is installed.
 
-Save as: `screenshots/server-manager-dashboard.png`
+<img width="1921" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe721ce9-c376-4e21-a76c-bdec51732c63" />
 
 1. Open **Server Manager**
 2. Click **Add Roles and Features**
