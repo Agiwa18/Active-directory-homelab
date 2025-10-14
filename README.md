@@ -35,7 +35,10 @@ This beginner-friendly project walks through setting up a functional Active Dire
 <p align="center">
   <img src="https://github.com/user-attachments/assets/82cd20d3-0acd-45d7-83cb-8ef246c49375" width="49%" />
   <img src="https://github.com/user-attachments/assets/5b60d865-5793-4b14-9386-7ece0914611d" width="49%" />
+
+- Once you see this screen you have suceesfully intalled Virtualbox.
 </p>
+<img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/c0db9dbc-c8b4-4c87-b8e0-d77899124890" />
 
 
 
