@@ -145,6 +145,40 @@ Steps:
 
 4. Open PowerShell as an Administrator on your domain controller: your server vm
 5. copy and paste this script into powershell and press enter
+
+📌 Note:
+Before running this script, make sure:
+
+You have saved your users.csv file to the Desktop of the Server VM.
+
+You are running PowerShell as Administrator.
+# Import users from CSV file
+📌 Note:
+run this script first 
+```powershell
+$users = Import-Csv "C:\Users\Administrator\Desktop\users.csv"
+```
+
+
+   # Loop through each user entry
+
+```powershell
+foreach ($user in $users) {
+    $OUPath = "OU=$($user.OU),DC=corp,DC=local"
+
+    New-ADUser `
+        -Name "$($user.FirstName) $($user.LastName)" `
+        -GivenName $user.FirstName `
+        -Surname $user.LastName `
+        -SamAccountName $user.Username `
+        -UserPrincipalName "$($user.Username)@corp.local" `
+        -Path $OUPath `
+        -AccountPassword (ConvertTo-SecureString "Password123!" -AsPlainText -Force) `
+        -Enabled $true
+}
+```
+
+
    <img width="1823" height="1069" alt="image" src="https://github.com/user-attachments/assets/876f4104-563d-471a-b834-58866e309e40" />
    
 
