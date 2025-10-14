@@ -8,6 +8,8 @@ This beginner-friendly project walks through setting up a functional Active Dire
 
 - VirtualBox (latest version): [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 - Windows Server 2019 ISO: [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a428b1e8-d0f4-497c-8ae0-f5b988f63957" />
+
 - Windows 10 ISO: [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 - At least 8GB RAM (16GB recommended)
 - At least 100GB free disk space
