@@ -32,9 +32,12 @@ This beginner-friendly project walks through setting up a functional Active Dire
 ### 📦 Step 1: Install VirtualBox
 
 - Download and install VirtualBox from the official site.
-<img width="1900" height="1030" alt="image" src="https://github.com/user-attachments/assets/82cd20d3-0acd-45d7-83cb-8ef246c49375" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82cd20d3-0acd-45d7-83cb-8ef246c49375" width="49%" />
+  <img src="https://github.com/user-attachments/assets/5b60d865-5793-4b14-9386-7ece0914611d" width="49%" />
+</p>
 
----
+
 
 ### 💽 Step 2: Create a VM for Windows Server 2019
 
