@@ -129,24 +129,25 @@ This ensures your Windows Server has a static IP address, which is required for 
 ### 🧑‍💼 Step 7: Add Users with PowerShell  
 
 Steps:
+
 1.On the Windows Server VM, open Notepad.
 
-        2. then Type the following text to define your user list note yours can be different than mines but the format must be the same 
+2.then save the Notepad file as users.csv
+
+📌 Note: Your user list may different than mines it just must follow the same format as the one below 
+
+3.Customize the users.csv file with names, usernames, departments, and OUs.
+
+
+
 
    <img width="1110" height="1100" alt="image" src="https://github.com/user-attachments/assets/3649c329-33a6-4938-8c31-5405d9844f54" />
 
-4. Download the sample PowerShell script and CSV file from this repository:
-
-bulk-user-creation.ps1 
-3.Customize the users.csv file with names, usernames, departments, and OUs.
-
-4. Run the PowerShell script as Administrator on your domain controller:
-5. Save and run the script in PowerShell as Admin
+4. Run the PowerShell script as Administrator on your domain controller: your server vm
+5. copy and paste this script into powershell and press enter 
 6. Verify users are created under the correct OUs
 
-📸 Screenshot Example:  
-- `screenshots/powershell-bulk-users.png`
----
+
 
 
 ## 🧩 Step 8: Configure Static IP and Join Client to Domain
