@@ -129,8 +129,13 @@ This ensures your Windows Server has a static IP address, which is required for 
 ### 🧑‍💼 Step 7: Add Users with PowerShell  
 
 Steps:
-1. Write a PowerShell script to bulk-create users from a CSV
-2. Download the sample PowerShell script and CSV file from this repository:
+1.On the Windows Server VM, open Notepad.
+
+        2. then Type the following text to define your user list note yours can be different than mines but the format must be the same 
+
+   <img width="1110" height="1100" alt="image" src="https://github.com/user-attachments/assets/3649c329-33a6-4938-8c31-5405d9844f54" />
+
+4. Download the sample PowerShell script and CSV file from this repository:
 
 bulk-user-creation.ps1 
 3.Customize the users.csv file with names, usernames, departments, and OUs.
