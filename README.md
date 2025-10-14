@@ -79,16 +79,15 @@ After installation, your **Server Manager** dashboard will show a new "AD DS" ro
 </p>
 
 4. Follow the wizard, then click **Promote this server to a domain controller**
-5. Create a new forest and domain (e.g., `corp.local`)
-6. In the **Deployment Configuration** window, choose “Add a new forest” and enter your root domain name (e.g., `corp.local`).
-7. On the **Domain Controller Options** screen, select Forest functional level and Domain functional level (keep default: Windows Server 2016), and set a **DSRM password**.
-8. Prerequisites will be checked. If all pass, click **Install** to begin domain controller promotion.
-9. Server will reboot automatically once setup is complete.
+   <img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/38411c2e-013f-4cb9-8246-bdc972111b1a" />
+
+6. Create a new forest and domain (e.g., `corp.local`)
+7. In the **Deployment Configuration** window, choose “Add a new forest” and enter your root domain name (e.g., `corp.local`).
+8. On the **Domain Controller Options** screen, select Forest functional level and Domain functional level (keep default: Windows Server 2016), and set a **DSRM password**.
+9. Prerequisites will be checked. If all pass, click **Install** to begin domain controller promotion.
+10. Server will reboot automatically once setup is complete.
 
 
-📸 Screenshots:
-- `screenshots/ad-role-add.png`
-- `screenshots/domain-setup.png`
 
 
 🗂️ Step 5: Create Organizational Units (OUs)
