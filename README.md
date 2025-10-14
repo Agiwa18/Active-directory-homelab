@@ -144,8 +144,11 @@ Steps:
    <img width="1110" height="1100" alt="image" src="https://github.com/user-attachments/assets/3649c329-33a6-4938-8c31-5405d9844f54" />
 
 4. Open PowerShell as an Administrator on your domain controller: your server vm
-5. copy and paste this script into powershell and press enter 
-6. Verify users are created under the correct OUs
+5. copy and paste this script into powershell and press enter
+   <img width="1823" height="1069" alt="image" src="https://github.com/user-attachments/assets/876f4104-563d-471a-b834-58866e309e40" />
+   
+
+7. Verify users are created under the correct OUs
 
 
 
