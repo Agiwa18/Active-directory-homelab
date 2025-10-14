@@ -73,14 +73,17 @@ After installation, your **Server Manager** dashboard will show a new "AD DS" ro
 1. Open **Server Manager**
 2. Click **Add Roles and Features**
 3. Select `Active Directory Domain Services (AD DS)`
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7d15826-2255-4c79-929a-378fe44d1823" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8bd2dfb-38b1-4ddf-aa2f-20abaa392942" alt="Image 1" width="48%">
+  <img src="https://github.com/user-attachments/assets/f7d15826-2255-4c79-929a-378fe44d1823" alt="Image 2" width="48%">
+</p>
 
-5. Follow the wizard, then click **Promote this server to a domain controller**
-6. Create a new forest and domain (e.g., `corp.local`)
-7. In the **Deployment Configuration** window, choose “Add a new forest” and enter your root domain name (e.g., `corp.local`).
-8. On the **Domain Controller Options** screen, select Forest functional level and Domain functional level (keep default: Windows Server 2016), and set a **DSRM password**.
-9. Prerequisites will be checked. If all pass, click **Install** to begin domain controller promotion.
-10. Server will reboot automatically once setup is complete.
+4. Follow the wizard, then click **Promote this server to a domain controller**
+5. Create a new forest and domain (e.g., `corp.local`)
+6. In the **Deployment Configuration** window, choose “Add a new forest” and enter your root domain name (e.g., `corp.local`).
+7. On the **Domain Controller Options** screen, select Forest functional level and Domain functional level (keep default: Windows Server 2016), and set a **DSRM password**.
+8. Prerequisites will be checked. If all pass, click **Install** to begin domain controller promotion.
+9. Server will reboot automatically once setup is complete.
 
 
 📸 Screenshots:
