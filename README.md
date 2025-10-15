@@ -237,8 +237,11 @@ foreach ($user in $users) {
 5. If successful, you will see: **"Welcome to the domain"**  
 6. Click **OK** and restart the Windows 10 client  
 7. On the login screen, click **Other User** and sign in as:  
-   `corp\studentuser1`  
+   `corp\studentuser1`
    *(Replace with the domain username you created earlier)*
+
+   <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/7fdffa6f-9721-421a-a739-604b8cf45fbb" />
+
 
 ✅ If login is successful, your Windows 10 client is now part of the domain and can be managed through Group Policy and Active Directory tools.
 ### 📸 Screenshots:
