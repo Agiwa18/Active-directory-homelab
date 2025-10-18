@@ -118,14 +118,16 @@ corp.local
 Steps:
 1. Open **Control Panel** and go to:
    `Network and Internet > Network and Sharing Center > Change adapter settings`
-2. Right-click your **Ethernet** adapter and choose **Properties**
-3. Double-click on `Internet Protocol Version 4 (TCP/IPv4)`
-4. Select **Use the following IP address** and enter:
+   <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/dfdaa11e-da95-4d3a-95c4-7a73cb78e123" />
+
+3. Right-click your **Ethernet** adapter and choose **Properties**
+4. Double-click on `Internet Protocol Version 4 (TCP/IPv4)`
+5. Select **Use the following IP address** and enter:
    - IP address: `192.168.1.2`
    - Subnet mask: `255.255.255.0`
    - Default gateway: `192.168.1.1`
    - Preferred DNS server: `127.0.0.1`
-5. Click **OK** to apply changes
+6. Click **OK** to apply changes
 
 This ensures your Windows Server has a static IP address, which is required for reliable DNS and domain controller functionality.
 
