@@ -52,6 +52,8 @@ This beginner-friendly project walks through setting up a functional Active Dire
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ebf6381-62e8-420c-8134-715c5460b1fb" />
 
 - Assign 4GB RAM (or more)
+  <img width="1200" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d73b656-08cf-4add-acf0-f79ec7c7c327" />
+
 - Choose “Create a virtual hard disk now” (min. 60GB)
 - Attach the Server 2019 ISO as a virtual optical disk
 
