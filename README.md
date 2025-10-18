@@ -144,10 +144,7 @@ Steps:
 
 This ensures your Windows Server has a static IP address, which is required for reliable DNS and domain controller functionality.
 
-📸 Screenshot Examples:
-- `screenshots/control-panel-network.png`
-- `screenshots/network-adapter-properties.png`
-- `screenshots/ipv4-settings.png`
+
 
 ### 🧑‍💼 Step 7: Add Users with PowerShell  
 
