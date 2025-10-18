@@ -81,6 +81,7 @@ After installation, your **Server Manager** dashboard will show a new "AD DS" ro
   <img src="https://github.com/user-attachments/assets/f8bd2dfb-38b1-4ddf-aa2f-20abaa392942" alt="Image 1" width="48%">
   <img src="https://github.com/user-attachments/assets/f7d15826-2255-4c79-929a-378fe44d1823" alt="Image 2" width="48%">
 </p>
+<img width="1000" height="1059" alt="image" src="https://github.com/user-attachments/assets/85a425a5-79bd-41b3-9cf3-d2bf228d5cf3" />
 
 4. Follow the wizard, then click **Promote this server to a domain controller**
    <img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/38411c2e-013f-4cb9-8246-bdc972111b1a" />
