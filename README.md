@@ -49,6 +49,8 @@ This beginner-friendly project walks through setting up a functional Active Dire
 ### 💽 Step 2: Create a VM for Windows Server 2019
 
 - Open VirtualBox and create a new VM
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ebf6381-62e8-420c-8134-715c5460b1fb" />
+
 - Assign 4GB RAM (or more)
 - Choose “Create a virtual hard disk now” (min. 60GB)
 - Attach the Server 2019 ISO as a virtual optical disk
