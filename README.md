@@ -118,7 +118,17 @@ corp.local
 Steps:
 1. Open **Control Panel** and go to:
    `Network and Internet > Network and Sharing Center > Change adapter settings`
-   <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/dfdaa11e-da95-4d3a-95c4-7a73cb78e123" />
+  <table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/dfdaa11e-da95-4d3a-95c4-7a73cb78e123" width="600"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/283fbe75-a89b-410b-a208-2fb94ca0bf9f" width="600"/>
+    </td>
+  </tr>
+</table>
+
 
 3. Right-click your **Ethernet** adapter and choose **Properties**
 4. Double-click on `Internet Protocol Version 4 (TCP/IPv4)`
