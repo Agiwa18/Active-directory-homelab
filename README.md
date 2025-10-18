@@ -139,6 +139,8 @@ Steps:
    - Default gateway: `192.168.1.1`
    - Preferred DNS server: `127.0.0.1`
 6. Click **OK** to apply changes
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48e9f81a-a2dc-416c-8e9b-10fe651b9e73" />
+
 
 This ensures your Windows Server has a static IP address, which is required for reliable DNS and domain controller functionality.
 
