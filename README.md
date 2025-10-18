@@ -92,7 +92,9 @@ After installation, your **Server Manager** dashboard will show a new "AD DS" ro
 
 9. On the **Domain Controller Options** screen, select Forest functional level and Domain functional level (keep default: Windows Server 2016), and set a **DSRM password**.
 10. Prerequisites will be checked. If all pass, click **Install** to begin domain controller promotion.
-11. Server will reboot automatically once setup is complete.
+11. The server will reboot automatically once the setup is complete. When your screen looks like the image below, it means you have successfully installed your server domain.
+    <img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/7b927119-de43-4d9d-98af-5a2a7798736e" />
+
 
 
 
