@@ -9,7 +9,7 @@ This beginner-friendly project walks through setting up a functional Active Dire
 - VirtualBox (latest version): [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 - <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/41fdc04d-5b79-4027-aa32-0eea65513757" />
 
-- Windows Server 2019 ISO: [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+- Windows Server 2019 ISO: [[Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)]
   <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/a428b1e8-d0f4-497c-8ae0-f5b988f63957" />
 
 - Windows 10 ISO: [Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO)
