@@ -128,6 +128,7 @@ Steps:
     </td>
   </tr>
 </table>
+<img width="1902" height="1062" alt="image" src="https://github.com/user-attachments/assets/63877d3b-c296-40cc-b5e6-2bdf86ca8c54" />
 
 
 3. Right-click your **Ethernet** adapter and choose **Properties**
